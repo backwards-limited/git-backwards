@@ -6,4 +6,3 @@
 - [Repository from Unversioned Project](repoFromExistingSource/README.md)
 - [Fork and Clone](forkAndClone/README.md)
 - [Checkout](checkout/README.md)
-
